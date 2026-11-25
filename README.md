@@ -68,6 +68,7 @@
 
 ## Market Data and Analytics
 
+- **[Bitcoin Logbook](https://bitcoinlogbook.com/apps/bitcoin-dca-calculator/)** - Open-source Bitcoin DCA calculator with historical prices since 2010, purchase fees, lump-sum comparison, and CSV export.
 - **[TradingView](https://www.tradingview.com/)** - A platform for advanced charting and market analysis.
 - **[CryptoCompare](https://www.cryptocompare.com/)** - A platform for comparing cryptocurrency prices, market data, and analytics.
 - **[Glassnode](https://glassnode.com/)** - Provides on-chain data and metrics for various cryptocurrencies.
